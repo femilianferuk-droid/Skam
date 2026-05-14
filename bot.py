@@ -161,6 +161,7 @@ class Emoji:
     GIFT = "🎁"
     TAG = "🏷️"
     DELIVERY = "📦"
+    LOLZ = "🎮"
     
     # Time and date
     CLOCK = "⏰"
